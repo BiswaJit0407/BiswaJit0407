@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Biswajit Padhan  
 
-- 👀 I’m interested in **Frontend Web Development**  
-- 🌱 I’m currently learning **MERN STACK**  
+- 👀 I’m interested in **Mern Stack Web Development**    
 - 📫 Reach me at: **biswajitpadhan2001@gmail.com**  
 
 ---
